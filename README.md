@@ -1,4 +1,4 @@
-# Sample accelerators for the new ACC Engive v2
+# Sample accelerators for the new Accelerator Engine v2
 
 ### Spring Cloud Function Serverless JVM/Native App on Knative: k8s/knative-function-acc
 
