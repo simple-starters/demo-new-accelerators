@@ -1,0 +1,19 @@
+apiVersion: accelerator.tanzu.vmware.com/v1alpha1
+kind: Accelerator
+metadata:
+  # single word or recommend a free form string?
+  name: "api-first-development"
+spec:
+  displayName: API-First Spring Boot Development
+  description: A Spring Boot application generated from an OpenAPI spec with JVM/Native Image Compilation
+  iconUrl: https://raw.githubusercontent.com/simple-starters/icons/master/icon-cloud.png
+  tags:
+    - spring
+    - cloud
+    - openapi
+    - serverless
+    - native
+  git:
+    url: "https://github.com/ddobrin/api-first-dev"
+    ref:
+      branch: "main"
