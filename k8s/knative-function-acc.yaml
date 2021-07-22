@@ -16,4 +16,4 @@ spec:
   git:
     url: "https://github.com/ddobrin/spring-native-function-knative"
     ref:
-      branch: "new-acc"
+      branch: "main"
